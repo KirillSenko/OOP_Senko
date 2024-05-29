@@ -426,5 +426,4 @@ static double[,] InputMatrixDouble(int rows, int cols)
     }
     return matrix;
 }
-
 }
